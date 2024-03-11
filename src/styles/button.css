@@ -1,0 +1,24 @@
+.start{
+    background-color: black;
+    border: none;
+   }
+   .srat:hover{
+       border: solid 2px white;
+       background-color: black;
+    
+   }
+   .other{
+      border: solid 2px white;
+      background-color: rgba(0, 0, 0, 0);
+   }
+   .other:hover{
+       background-color: white;
+       color: black;
+   }
+   button{
+       border-radius: 50px;
+       padding: 15px 50px ;
+       margin-left: 10px;
+       color: white;
+       cursor: pointer;
+   }
