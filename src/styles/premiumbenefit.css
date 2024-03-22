@@ -1,0 +1,9 @@
+.premium-benefits h2{
+    text-align: center;
+}
+.benefit-card{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+  }

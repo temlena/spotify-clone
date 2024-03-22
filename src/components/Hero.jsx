@@ -1,6 +1,5 @@
 import Button from "../components/Button";
 import "../styles/hero.css";
-
 export default function GetPremium() {
   return (
     <div className="hero">
@@ -20,4 +19,3 @@ export default function GetPremium() {
   );
 };
 
-// export default GetPremium;

@@ -1,0 +1,33 @@
+.plans {
+    padding: 3rem 0;
+}
+.planTitle, .planDesc, .icons {
+    text-align: center;
+}
+.planTitle {
+    font-weight: 700;
+    font-size: 2.4rem;
+    margin-bottom: 1rem;
+}
+.planDesc {
+    font-weight: 400;
+    font-size: 1rem;
+    padding-bottom: 2rem;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70px;
+    margin: auto;
+    padding-bottom: 3rem;
+}
+.cards {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    margin: auto;
+    width: 80%;
+    
+}
